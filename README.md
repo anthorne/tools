@@ -32,7 +32,8 @@ _Tools for Open Source Intelligence_
   * https://www.remove.bg/ (Removing backgrounds in images)
   * https://cleanup.pictures/ (Remove details in images)
   * https://29a.ch/photo-forensics (Forensically image tool for checking images and access Exif info)
-
+  * https://pimeyes.com/ (Face Search Engine Reverse Image Serach)
+	
 * Programs
   * exiftool (get Exif information from images)
 
@@ -41,6 +42,32 @@ _Tools for Open Source Intelligence_
 
 ### Websites
 * [Wayback Machine](https://web.archive.org/) (Explore more than 702 billion web pages saved over time)
+* [_IntelligenceX](https://intelx.io/) (Search engine for leaked information)
+
+### E-mails
+* https://hunter.io/search (Search for e-mail addresses and patterns by domain name)
+* https://phonebook.cz/ (Phonebook lists all domains, email addresses, or URLs for the given input domain.)
+* Clearbit Connect (Google Chrome addon - Search for people in companies)
+* https://tools.verifyemailaddress.io (Email address verification technology from Email Hippo that connects to mailboxes and checks wether an email address exists.)
+* https://email-checker.net/ (Email address verification tool)
+
+### Usernames
+* https://whatsmyname.app (Enumerate usernames across many websites)
+* https://namechk.com/ (Username availability lookup)
+* https://namecheckup.com/ (Find Available Username)
+
+### Passwords
+* https://haveibeenpwned.com (Check if your email or phone is in a data breach)
+* https://dehashed.com (Resource with compromised passwords from leaks - Paid subscription only)
+* https://hashes.org (Tool for check-up hashes)
+* https://scylla.so/ (Providing free access to the world's largest breach dataset) - _Will be comming up soon?_
+
+### People
+* https://webmii.com/ (Webmii seaches for public information available on the web.)
+* https://www.infobel.com
+
+### Phone
+* https://truecaller.com
 
 ### Social media
 #### Discord
@@ -91,3 +118,4 @@ _Tools for Open Source Intelligence_
   * [CyberChef](https://gchq.github.io/CyberChef/) (The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis)
   * https://geojson.io/ (Online tool for viewing GeoJSON)
 
+* https://asciinema.org/ (Record and share your terminal sessions, the simple way.)
