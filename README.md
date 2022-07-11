@@ -10,10 +10,14 @@ List of useful tools for random security, CTF stuff. An attempt to keep track of
 ## Security frameworks and resources
 * [Mitre ATT&CK](https://attack.mitre.org/)
 * [OWASP](https://owasp.org/www-project-top-ten/)
+* [OSINT Framework](https://osintframework.com/) (Gathering information from free tools or resources)
 
 
 ## Reconnaissance
 ### Web
+* Online tools
+  * [Domaintools Whois](https://whois.domaintools.com) (Whois lookups for domains)
+	
 * Programs
   * dirbuster (Look for subdomains)
   * Postman (API tool)
@@ -43,6 +47,7 @@ _Tools for Open Source Intelligence_
 ### Websites
 * [Wayback Machine](https://web.archive.org/) (Explore more than 702 billion web pages saved over time)
 * [_IntelligenceX](https://intelx.io/) (Search engine for leaked information)
+* [OCCRP Research databases](https://id.occrp.org/databases/) (Collection of public data sources for investigative reporting)
 
 ### E-mails
 * https://hunter.io/search (Search for e-mail addresses and patterns by domain name)
